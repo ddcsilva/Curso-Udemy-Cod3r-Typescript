@@ -1,0 +1,23 @@
+{
+  "name": "curso-udemy-cod3r-typescript",
+  "version": "1.0.0",
+  "description": "Curso - Udemy - Cod3r - Entendendo Typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddcsilva/Curso-Udemy-Cod3r-Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddcsilva/Curso-Udemy-Cod3r-Typescript/issues"
+  },
+  "homepage": "https://github.com/ddcsilva/Curso-Udemy-Cod3r-Typescript#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
